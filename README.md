@@ -1,4 +1,4 @@
-# Matheus Teixeira Tomaz (MatheusTT)
+# Matheus Teixeira Tomaz (mttomaz)
 
 👋 Olá! Sou um estudante de Engenharia de Software. Tenho paixão por tecnologia e desenvolvimento de software, especialmente nas áreas de automação e sistemas operacionais.
 
@@ -14,4 +14,4 @@
 
 ## 📫 Contato
 - **E-mail**: [mttomaz@duck.com](mailto:mttomaz@duck.com)
-- **LinkedIn**: [matheustt](https://www.linkedin.com/in/matheustt)
+- **LinkedIn**: [mttomaz](https://www.linkedin.com/in/mttomaz)
